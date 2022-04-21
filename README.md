@@ -23,7 +23,7 @@ LaMa generalizes surprisingly well to much higher resolutions (~2k❗️) than i
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/senya-ashukha/senya-ashukha.github.io/master/projects/lama_21/ezgif-4-0db51df695a8.gif" />
+  <img src="img/eu12all.gif" />
 </p>
 
 
